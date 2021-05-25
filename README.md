@@ -17,7 +17,7 @@ Web系のエンジニアです。バックもフロントも両方やります�
 ## 今後学習したいもの
 - Node.js
 - React
-- kubernetes
-- kafka
+- Kubernetes
+- Kafka
 - NoSQL
 - サーバレスアーキテクチャ
