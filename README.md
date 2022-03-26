@@ -4,20 +4,17 @@ Web系のエンジニアです。バックもフロントも両方やります�
 
 
 # 趣味趣向
-## 得意言語/フレームワーク
+## 得意な技術
 - java
 - spring boot
 - Vue.js
-
-## 学習中の言語/フレームワーク
 - Go
-- Kotlin
-- Python
+
+## 学習中の技術
+- Nest.js
+- AWS Lambda
 
 ## 今後学習したいもの
-- Node.js
 - React
 - Kubernetes
-- Kafka
 - NoSQL
-- サーバレスアーキテクチャ
