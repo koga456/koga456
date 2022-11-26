@@ -14,8 +14,7 @@ Web系のエンジニアです。バックもフロントも両方やります�
 - NestJS
 - AWS Lambda
 - Kubernetes
+- NoSQL
 
 ## 今後学習したいもの
 - React
-- Kubernetes
-- NoSQL
