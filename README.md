@@ -11,8 +11,9 @@ Web系のエンジニアです。バックもフロントも両方やります�
 - Go
 
 ## 学習中の技術
-- Nest.js
+- NestJS
 - AWS Lambda
+- Kubernetes
 
 ## 今後学習したいもの
 - React
